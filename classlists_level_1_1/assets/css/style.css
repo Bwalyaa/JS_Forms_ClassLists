@@ -1,0 +1,12 @@
+
+.newClass {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    font-size: 2rem;
+}
+
+.newClassList {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+    font-size: 2rem;
+}
